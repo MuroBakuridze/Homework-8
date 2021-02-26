@@ -10,6 +10,7 @@
 .logo{
 	height: 94px;
 	font-size: 70px;
+	font-family: 'Brandon Grotesque';
 }
 .nav-bar{
 	font-size: 18px;
@@ -22,6 +23,8 @@
 .blog{
 	font-size: 18px;
 	color: #7F7F7F;
+	font-family: 'Brandon Grotesque';
+	font-weight: lighter;
 }
 .social{
 	width: 130px;
@@ -51,6 +54,9 @@
 }
 .ab-txt{
 	font-size: 40px;
+	font-family: 'Kazimir';
+	font-style: italic;
+	font-weight: lighter;
 }
 .content{
 	height: 780px;
@@ -73,6 +79,9 @@
 .txt-content{
 	font-size: 20px;
 	color: #F4F4F1;
+	font-family: 'Kazimir';
+	font-style: italic;
+	font-weight: lighter;
 }
 .below-content{
 	height: 620px;
@@ -84,11 +93,16 @@
 .cover-head{
 	height: 100px;
 	font-size: 40px;
-
+	font-family: 'Kazimir';
+	font-weight: lighter;
+	font-style: italic;
 }
 .cover-text{
 	width: 696px;
 	font-size: 20px;
+	font-family: 'Kazimir';
+	font-weight: lighter;
+	font-style: italic;
 }
 .sec-txt{
 	padding-top: 40px;
@@ -103,6 +117,8 @@
 	justify-content: center;
 	align-items: center;
 	margin-top: 50px;
+	font-family: 'Brandon Grotesque';
+	font-weight: lighter;
 }
 .btn-a{
 	color: #FFFFFF;
@@ -141,8 +157,12 @@
 .bot-blog{
 	color: #FFFFFF;
 	font-size: 10px;
+	font-family: 'Brandon Grotesque';
+	font-weight: lighter;
 }
 .privacy{
 	font-size: 12px;
 	color: #F4F4F1;
+	font-family: 'Brandon Grotesque';
+	font-weight: lighter;
 }
