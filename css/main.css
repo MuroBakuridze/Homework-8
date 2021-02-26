@@ -11,6 +11,7 @@
 	height: 94px;
 	font-size: 70px;
 	font-family: 'Brandon Grotesque';
+	color: #36413E;
 }
 .nav-bar{
 	font-size: 18px;
@@ -57,6 +58,7 @@
 	font-family: 'Kazimir';
 	font-style: italic;
 	font-weight: lighter;
+	color: #19381F;
 }
 .content{
 	height: 780px;
@@ -96,6 +98,7 @@
 	font-family: 'Kazimir';
 	font-weight: lighter;
 	font-style: italic;
+	color: #36413E;
 }
 .cover-text{
 	width: 696px;
@@ -103,6 +106,7 @@
 	font-family: 'Kazimir';
 	font-weight: lighter;
 	font-style: italic;
+	color: #7F7F7F;
 }
 .sec-txt{
 	padding-top: 40px;
