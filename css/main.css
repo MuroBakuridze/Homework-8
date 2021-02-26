@@ -70,5 +70,33 @@
 }
 .below-content{
 	height: 620px;
-	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.cover-head{
+	height: 100px;
+	font-size: 40px;
+
+}
+.cover-text{
+	width: 696px;
+	font-size: 20px;
+}
+.sec-txt{
+	padding-top: 40px;
+}
+.cover-link{
+	width: 148px;
+	height: 48px;
+	background-color: #36413E;
+	font-size: 12px;
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn-a{
+	color: #FFFFFF;
 }
