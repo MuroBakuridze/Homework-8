@@ -19,6 +19,10 @@
 	justify-content: space-between;
 	align-items: center;
 }
+.blog{
+	font-size: 18px;
+	color: #7F7F7F;
+}
 .social{
 	width: 130px;
 }
@@ -64,9 +68,11 @@
 .txt-head{
 	font-size: 40px;
 	margin-bottom: 50px;
+	color: #19381F;
 }
 .txt-content{
 	font-size: 20px;
+	color: #F4F4F1;
 }
 .below-content{
 	height: 620px;
@@ -96,7 +102,47 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-top: 50px;
 }
 .btn-a{
 	color: #FFFFFF;
+}
+.foot-nav{
+	height: 80px;
+	background-color: #306B34;
+	display: flex;
+	align-items: center;
+}
+.priv{
+	width: 50px;
+	color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 30px;
+	font-size: 12px;
+}
+.foot-nav-bar{
+	width: 275px;
+	color: #FFFFFF;
+	font-size: 10px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-left: 250%;
+}
+.for-marg{
+	margin-top: 110px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.bot-blog{
+	color: #FFFFFF;
+	font-size: 10px;
+}
+.privacy{
+	font-size: 12px;
+	color: #F4F4F1;
 }
